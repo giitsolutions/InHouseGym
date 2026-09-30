@@ -8,6 +8,19 @@ This version keeps the customer website, 3 equipment categories, treadmill weigh
 npm install
 npm run dev
 ```
+## User login
+
+- User registration and login
+- Browse and explore gym equipment
+- View equipment details and specifications
+- Select rental duration
+- Add equipment to cart
+- Manage cart items
+- Enter shipping and contact details
+- Upload Aadhaar and PAN card documents
+- Select payment method
+- Place rental orders
+- View order and rental confirmation
 
 ## Admin login
 
