@@ -11,8 +11,8 @@ npm run dev
 
 ## Admin login
 
-Email: `admin@inhousegym.com`
-Password: `admin123`
+Email: `inhousegym.admin@gmail.com`
+Password: `InHouseGym#2026$Admin`
 
 ## Admin sections
 
